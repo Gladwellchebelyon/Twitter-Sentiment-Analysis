@@ -104,11 +104,11 @@ The models above were all used in Binary and Multiclass classification.
 
 1. Clone the repository.
 
-'git clone https://github.com/Gladwellchebelyon/Twitter-Sentiment-Analysis.git'
+`python git clone https://github.com/Gladwellchebelyon/Twitter-Sentiment-Analysis.git`
 
 2. Install the required dependencies.
 
-'pip install -r requirements.txt'
+`python pip install -r requirements.txt`
 
 3. Run the project notebooks in your preferred environment.
 
