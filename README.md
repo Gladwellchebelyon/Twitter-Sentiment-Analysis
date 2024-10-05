@@ -103,10 +103,14 @@ The models above were all used in Binary and Multiclass classification.
   To replicate this project, follow these steps:
 
 1. Clone the repository.
-
+   
+    bash terminal
+   
 ```git clone https://github.com/Gladwellchebelyon/Twitter-Sentiment-Analysis.git```
 
-2. Install the required dependencies.
+3. Install the required dependencies.
+
+   bash terminal
 
 ```pip install -r requirements.txt```
 
